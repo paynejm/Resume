@@ -20,15 +20,10 @@ Mycology, Ecology, Environmental Science
  - ##### B.S. in Biology: Ecology, Evolution and Environmental Science
 
   -  Expected Graduation: 2022
-
-    Appalachian State University
-
-    Boone, NC, USA
+    -  Appalachian State University:
+Boone, NC, USA
     &nbsp;
  - ##### GIS Certificate
 
    - Expected Completion: December 2021
-
-    Appalachian State University
-
-      Boone, NC, USA
+     - Appalachian State University: Boone, NC, USA
