@@ -26,6 +26,7 @@ Mycology, Ecology, Environmental Science
     Boone, NC, USA
     &nbsp;
  - ##### GIS Certificate
+
    - Expected Completion: December 2021
 
     Appalachian State University
